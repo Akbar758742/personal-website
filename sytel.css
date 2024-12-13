@@ -1,0 +1,23 @@
+body{
+margin: 0;  
+padding: 0;
+}
+#j{
+    color: #EB4574;
+}
+.half{
+float: left;
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
+.sec1{
+    border: 3px solid red;
+    height: 900px;
+    background-image: url(img/header-bg.png);
+    background-repeat: no-repeat;
+}
